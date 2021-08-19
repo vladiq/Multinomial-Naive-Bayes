@@ -8,7 +8,6 @@ vladiq@vladiq:~/DA$ cmake .
 vladiq@vladiq:~/DA$ make
 ```
 
-
 ## How to Use:
 
 Create a test file (examples are in the /testcases directory):
@@ -19,8 +18,9 @@ Then the sequence of n_train training examples like that:<br/>
 class_n (0 or 1)<br/>
 train_text
 
-Then the sequence of n_test test examples:<br/>
+Then the sequence of n_test test examples. Each on its own line:<br/>
 test_text
+
 
 ## Example of usage:
 
