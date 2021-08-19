@@ -1,4 +1,4 @@
-# Multinomial-Naive-Bayes
+# Multinomial-Naive-Bayes 
 Implementation of Multinomial Naive Bayes Classifier in C++.
 
 ## Compilation Guide:
