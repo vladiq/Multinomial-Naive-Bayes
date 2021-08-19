@@ -4,8 +4,8 @@ Implementation of Multinomial Naive Bayes Classifier in C++.
 ## Compilation Guide:
 
 ```console
-vladiq@vladiq:~/DA$ cmake .
-vladiq@vladiq:~/DA$ make
+vladiq@vladiq:~/NB$ cmake .
+vladiq@vladiq:~/NB$ make
 ```
 
 ## How to Use:
@@ -25,7 +25,7 @@ test_text
 ## Example of usage:
 
 ```console
-vladiq@vladiq:~/DA$ ./NB <testcases/test_01.test
+vladiq@vladiq:~/NB$ ./NB <testcases/test_01.test
 1
 0
 
